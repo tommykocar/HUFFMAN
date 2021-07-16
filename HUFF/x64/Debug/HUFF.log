@@ -1,0 +1,7 @@
+﻿  HUFF.cpp
+C:\Users\Tommy\source\repos\HUFF\HUFF.cpp(36,49): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Tommy\source\repos\HUFF\HUFF.cpp(232,49): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Tommy\source\repos\HUFF\HUFF.cpp(639,49): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  Generating Code...
+  HUFF.vcxproj -> C:\Users\Tommy\source\repos\HUFF\x64\Debug\HUFF.exe
