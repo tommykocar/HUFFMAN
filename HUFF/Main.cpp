@@ -7,7 +7,6 @@
 #include "HUFF.h"
 
 
-
 int main(int argc,  char* argv[])
 {
     HUFF* mytree = new HUFF();
